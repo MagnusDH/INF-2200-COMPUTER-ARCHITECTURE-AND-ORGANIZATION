@@ -1,1 +1,1 @@
-# Repository for INF-2310 university projects
+# Repository for INF-2200 university projects
