@@ -1,1 +1,1 @@
-# INF-2200-COMPUTER-ARCHITECTURE-AND-ORGANIZATION
+# Repository for INF-2310 university projects
